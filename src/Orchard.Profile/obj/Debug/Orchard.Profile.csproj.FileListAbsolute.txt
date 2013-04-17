@@ -1,7 +1,0 @@
-D:\Projects\Git\Orchard\src\Orchard.Profile\bin\Debug\Orchard.Profile.dll
-D:\Projects\Git\Orchard\src\Orchard.Profile\bin\Debug\Orchard.Profile.pdb
-D:\Projects\Git\Orchard\src\Orchard.Profile\bin\Debug\nunit.framework.dll
-D:\Projects\Git\Orchard\src\Orchard.Profile\bin\Debug\TechTalk.SpecFlow.dll
-D:\Projects\Git\Orchard\src\Orchard.Profile\obj\Debug\Orchard.Profile.dll
-D:\Projects\Git\Orchard\src\Orchard.Profile\obj\Debug\Orchard.Profile.pdb
-D:\Projects\Git\Orchard\src\Orchard.Profile\obj\Debug\Orchard.Profile.csprojResolveAssemblyReference.cache

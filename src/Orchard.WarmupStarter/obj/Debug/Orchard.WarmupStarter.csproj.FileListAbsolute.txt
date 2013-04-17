@@ -1,5 +1,0 @@
-D:\Projects\Git\Orchard\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.dll
-D:\Projects\Git\Orchard\src\Orchard.WarmupStarter\bin\Debug\Orchard.WarmupStarter.pdb
-D:\Projects\Git\Orchard\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.dll
-D:\Projects\Git\Orchard\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.pdb
-D:\Projects\Git\Orchard\src\Orchard.WarmupStarter\obj\Debug\Orchard.WarmupStarter.csprojResolveAssemblyReference.cache

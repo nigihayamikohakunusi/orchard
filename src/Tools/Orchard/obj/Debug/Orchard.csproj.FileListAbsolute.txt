@@ -1,6 +1,0 @@
-D:\Projects\Git\Orchard\src\Tools\Orchard\bin\Debug\Orchard.exe.config
-D:\Projects\Git\Orchard\src\Tools\Orchard\bin\Debug\Orchard.exe
-D:\Projects\Git\Orchard\src\Tools\Orchard\bin\Debug\Orchard.pdb
-D:\Projects\Git\Orchard\src\Tools\Orchard\obj\Debug\Orchard.exe
-D:\Projects\Git\Orchard\src\Tools\Orchard\obj\Debug\Orchard.pdb
-D:\Projects\Git\Orchard\src\Tools\Orchard\obj\Debug\Orchard.csprojResolveAssemblyReference.cache
