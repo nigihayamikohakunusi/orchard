@@ -38,3 +38,4 @@ D:\Projects\Git\Orchard\src\Orchard.Web\Modules\Orchard.Rules\bin\Iesi.Collectio
 D:\Projects\Git\Orchard\src\Orchard.Web\Modules\Orchard.Rules\bin\System.Net.Http.Formatting.xml
 D:\Projects\Git\Orchard\src\Orchard.Web\Modules\Orchard.Rules\obj\Debug\Orchard.Rules.dll
 D:\Projects\Git\Orchard\src\Orchard.Web\Modules\Orchard.Rules\obj\Debug\Orchard.Rules.pdb
+D:\Projects\Git\Orchard\src\Orchard.Web\Modules\Orchard.Rules\obj\Debug\Orchard.Rules.csprojResolveAssemblyReference.cache

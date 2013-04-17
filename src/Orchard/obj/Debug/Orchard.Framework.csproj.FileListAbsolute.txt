@@ -29,3 +29,4 @@ D:\Projects\Git\Orchard\src\Orchard\bin\Debug\System.Web.Http.WebHost.xml
 D:\Projects\Git\Orchard\src\Orchard\bin\Debug\System.Net.Http.Formatting.xml
 D:\Projects\Git\Orchard\src\Orchard\obj\Debug\Orchard.Framework.dll
 D:\Projects\Git\Orchard\src\Orchard\obj\Debug\Orchard.Framework.pdb
+D:\Projects\Git\Orchard\src\Orchard\obj\Debug\Orchard.Framework.csprojResolveAssemblyReference.cache

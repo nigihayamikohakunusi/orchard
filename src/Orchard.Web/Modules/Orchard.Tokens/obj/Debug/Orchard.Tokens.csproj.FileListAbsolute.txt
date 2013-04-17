@@ -32,3 +32,4 @@ D:\Projects\Git\Orchard\src\Orchard.Web\Modules\Orchard.Tokens\bin\Iesi.Collecti
 D:\Projects\Git\Orchard\src\Orchard.Web\Modules\Orchard.Tokens\bin\System.Net.Http.Formatting.xml
 D:\Projects\Git\Orchard\src\Orchard.Web\Modules\Orchard.Tokens\obj\Debug\Orchard.Tokens.dll
 D:\Projects\Git\Orchard\src\Orchard.Web\Modules\Orchard.Tokens\obj\Debug\Orchard.Tokens.pdb
+D:\Projects\Git\Orchard\src\Orchard.Web\Modules\Orchard.Tokens\obj\Debug\Orchard.Tokens.csprojResolveAssemblyReference.cache

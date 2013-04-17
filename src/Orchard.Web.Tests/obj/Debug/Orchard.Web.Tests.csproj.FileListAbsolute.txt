@@ -34,6 +34,5 @@ D:\Projects\Git\Orchard\src\Orchard.Web.Tests\bin\Debug\Castle.DynamicProxy2.xml
 D:\Projects\Git\Orchard\src\Orchard.Web.Tests\bin\Debug\System.Web.Http.WebHost.xml
 D:\Projects\Git\Orchard\src\Orchard.Web.Tests\bin\Debug\Iesi.Collections.xml
 D:\Projects\Git\Orchard\src\Orchard.Web.Tests\bin\Debug\System.Net.Http.Formatting.xml
-D:\Projects\Git\Orchard\src\Orchard.Web.Tests\obj\Debug\Orchard.Web.Tests.csprojResolveAssemblyReference.cache
 D:\Projects\Git\Orchard\src\Orchard.Web.Tests\obj\Debug\Orchard.Web.Tests.dll
 D:\Projects\Git\Orchard\src\Orchard.Web.Tests\obj\Debug\Orchard.Web.Tests.pdb
