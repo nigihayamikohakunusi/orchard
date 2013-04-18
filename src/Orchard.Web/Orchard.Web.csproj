@@ -239,9 +239,8 @@
           <DevelopmentServerVPath>/OrchardLocal</DevelopmentServerVPath>
           <IISUrl>http://localhost:30320/OrchardLocal</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
-          <UseCustomServer>False</UseCustomServer>
-          <CustomServerUrl>
-          </CustomServerUrl>
+          <UseCustomServer>True</UseCustomServer>
+          <CustomServerUrl>http://orchard-37.apphb.com/</CustomServerUrl>
           <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
         </WebProjectProperties>
       </FlavorProperties>
